@@ -153,3 +153,8 @@ section {
     }
 }
 
+
+#navbarNav li.nav-item a {
+    color: #003862;
+}
+
