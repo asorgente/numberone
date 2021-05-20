@@ -153,6 +153,12 @@ section {
     }
 }
 
+@media only screen and (max-width : 812px) {
+    #map-container-google-8 iframe {
+        width: 340px;
+    }
+}
+
 
 #navbarNav li.nav-item a {
     color: #003862;
